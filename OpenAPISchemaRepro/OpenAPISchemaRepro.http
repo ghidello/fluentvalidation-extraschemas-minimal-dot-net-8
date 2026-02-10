@@ -1,0 +1,6 @@
+@OpenAPISchemaRepro_HostAddress = http://localhost:5005
+
+GET {{OpenAPISchemaRepro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
